@@ -1,0 +1,15 @@
+E:\Обучение\Программирование\C#\Lection_4\Example013_Recursia\bin\Debug\net6.0\Example013_Recursia.exe
+E:\Обучение\Программирование\C#\Lection_4\Example013_Recursia\bin\Debug\net6.0\Example013_Recursia.deps.json
+E:\Обучение\Программирование\C#\Lection_4\Example013_Recursia\bin\Debug\net6.0\Example013_Recursia.runtimeconfig.json
+E:\Обучение\Программирование\C#\Lection_4\Example013_Recursia\bin\Debug\net6.0\Example013_Recursia.dll
+E:\Обучение\Программирование\C#\Lection_4\Example013_Recursia\bin\Debug\net6.0\Example013_Recursia.pdb
+E:\Обучение\Программирование\C#\Lection_4\Example013_Recursia\obj\Debug\net6.0\Example013_Recursia.csproj.AssemblyReference.cache
+E:\Обучение\Программирование\C#\Lection_4\Example013_Recursia\obj\Debug\net6.0\Example013_Recursia.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение\Программирование\C#\Lection_4\Example013_Recursia\obj\Debug\net6.0\Example013_Recursia.AssemblyInfoInputs.cache
+E:\Обучение\Программирование\C#\Lection_4\Example013_Recursia\obj\Debug\net6.0\Example013_Recursia.AssemblyInfo.cs
+E:\Обучение\Программирование\C#\Lection_4\Example013_Recursia\obj\Debug\net6.0\Example013_Recursia.csproj.CoreCompileInputs.cache
+E:\Обучение\Программирование\C#\Lection_4\Example013_Recursia\obj\Debug\net6.0\Example013_Recursia.dll
+E:\Обучение\Программирование\C#\Lection_4\Example013_Recursia\obj\Debug\net6.0\refint\Example013_Recursia.dll
+E:\Обучение\Программирование\C#\Lection_4\Example013_Recursia\obj\Debug\net6.0\Example013_Recursia.pdb
+E:\Обучение\Программирование\C#\Lection_4\Example013_Recursia\obj\Debug\net6.0\Example013_Recursia.genruntimeconfig.cache
+E:\Обучение\Программирование\C#\Lection_4\Example013_Recursia\obj\Debug\net6.0\ref\Example013_Recursia.dll
