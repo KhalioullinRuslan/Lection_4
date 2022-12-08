@@ -1,0 +1,15 @@
+E:\Обучение\Программирование\C#\Lection_4\Example_014_BigFingerUp\obj\Debug\net6.0\Example_014_BigFingerUp.csproj.AssemblyReference.cache
+E:\Обучение\Программирование\C#\Lection_4\Example_014_BigFingerUp\obj\Debug\net6.0\Example_014_BigFingerUp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение\Программирование\C#\Lection_4\Example_014_BigFingerUp\obj\Debug\net6.0\Example_014_BigFingerUp.AssemblyInfoInputs.cache
+E:\Обучение\Программирование\C#\Lection_4\Example_014_BigFingerUp\obj\Debug\net6.0\Example_014_BigFingerUp.AssemblyInfo.cs
+E:\Обучение\Программирование\C#\Lection_4\Example_014_BigFingerUp\obj\Debug\net6.0\Example_014_BigFingerUp.csproj.CoreCompileInputs.cache
+E:\Обучение\Программирование\C#\Lection_4\Example_014_BigFingerUp\bin\Debug\net6.0\Example_014_BigFingerUp.exe
+E:\Обучение\Программирование\C#\Lection_4\Example_014_BigFingerUp\bin\Debug\net6.0\Example_014_BigFingerUp.deps.json
+E:\Обучение\Программирование\C#\Lection_4\Example_014_BigFingerUp\bin\Debug\net6.0\Example_014_BigFingerUp.runtimeconfig.json
+E:\Обучение\Программирование\C#\Lection_4\Example_014_BigFingerUp\bin\Debug\net6.0\Example_014_BigFingerUp.dll
+E:\Обучение\Программирование\C#\Lection_4\Example_014_BigFingerUp\bin\Debug\net6.0\Example_014_BigFingerUp.pdb
+E:\Обучение\Программирование\C#\Lection_4\Example_014_BigFingerUp\obj\Debug\net6.0\Example_014_BigFingerUp.dll
+E:\Обучение\Программирование\C#\Lection_4\Example_014_BigFingerUp\obj\Debug\net6.0\refint\Example_014_BigFingerUp.dll
+E:\Обучение\Программирование\C#\Lection_4\Example_014_BigFingerUp\obj\Debug\net6.0\Example_014_BigFingerUp.pdb
+E:\Обучение\Программирование\C#\Lection_4\Example_014_BigFingerUp\obj\Debug\net6.0\Example_014_BigFingerUp.genruntimeconfig.cache
+E:\Обучение\Программирование\C#\Lection_4\Example_014_BigFingerUp\obj\Debug\net6.0\ref\Example_014_BigFingerUp.dll
