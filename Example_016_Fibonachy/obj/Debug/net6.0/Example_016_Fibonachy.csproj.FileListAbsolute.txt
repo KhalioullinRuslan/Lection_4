@@ -1,0 +1,15 @@
+E:\Обучение\Программирование\C#\Lection_4\Example_016_Fibonachy\bin\Debug\net6.0\Example_016_Fibonachy.exe
+E:\Обучение\Программирование\C#\Lection_4\Example_016_Fibonachy\bin\Debug\net6.0\Example_016_Fibonachy.deps.json
+E:\Обучение\Программирование\C#\Lection_4\Example_016_Fibonachy\bin\Debug\net6.0\Example_016_Fibonachy.runtimeconfig.json
+E:\Обучение\Программирование\C#\Lection_4\Example_016_Fibonachy\bin\Debug\net6.0\Example_016_Fibonachy.dll
+E:\Обучение\Программирование\C#\Lection_4\Example_016_Fibonachy\bin\Debug\net6.0\Example_016_Fibonachy.pdb
+E:\Обучение\Программирование\C#\Lection_4\Example_016_Fibonachy\obj\Debug\net6.0\Example_016_Fibonachy.csproj.AssemblyReference.cache
+E:\Обучение\Программирование\C#\Lection_4\Example_016_Fibonachy\obj\Debug\net6.0\Example_016_Fibonachy.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение\Программирование\C#\Lection_4\Example_016_Fibonachy\obj\Debug\net6.0\Example_016_Fibonachy.AssemblyInfoInputs.cache
+E:\Обучение\Программирование\C#\Lection_4\Example_016_Fibonachy\obj\Debug\net6.0\Example_016_Fibonachy.AssemblyInfo.cs
+E:\Обучение\Программирование\C#\Lection_4\Example_016_Fibonachy\obj\Debug\net6.0\Example_016_Fibonachy.csproj.CoreCompileInputs.cache
+E:\Обучение\Программирование\C#\Lection_4\Example_016_Fibonachy\obj\Debug\net6.0\Example_016_Fibonachy.dll
+E:\Обучение\Программирование\C#\Lection_4\Example_016_Fibonachy\obj\Debug\net6.0\refint\Example_016_Fibonachy.dll
+E:\Обучение\Программирование\C#\Lection_4\Example_016_Fibonachy\obj\Debug\net6.0\Example_016_Fibonachy.pdb
+E:\Обучение\Программирование\C#\Lection_4\Example_016_Fibonachy\obj\Debug\net6.0\Example_016_Fibonachy.genruntimeconfig.cache
+E:\Обучение\Программирование\C#\Lection_4\Example_016_Fibonachy\obj\Debug\net6.0\ref\Example_016_Fibonachy.dll
